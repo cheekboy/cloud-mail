@@ -6,7 +6,7 @@ compatibility_date = "2025-06-04"
 enabled = true
 
 [[routes]]
-pattern = "${CUSTOM_DOMAIN}"
+pattern = ${CUSTOM_DOMAIN}
 custom_domain = true
 
 [[d1_databases]]
